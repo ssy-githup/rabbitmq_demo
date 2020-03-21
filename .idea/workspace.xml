@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47bb22e1-8fcf-486c-878c-4252e7f2bad3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\ProgramFiles\maven-shopingMall\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZQo4Zaex0K46HJkqcwYL6RPJpe" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/demoShop/small-shop/spring-cloud-mall" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ai.ssy.utils" />
+      <recent name="" />
+      <recent name="ai.ssy" />
+      <recent name="ai.ssy.mapper" />
+      <recent name="ai.ssy.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProgramFiles\ideaPracticeDemoTotal\rabbitmq_demo\rab_order\src\main\java\ai\ssy\delay" />
+      <recent name="D:\ProgramFiles\ideaPracticeDemoTotal\rabbitmq_demo\rab_product\src\main\java\ai\ssy\controller" />
+      <recent name="D:\ProgramFiles\ideaPracticeDemoTotal\rabbitmq_demo\rab_order\src\main\java\ai\ssy" />
+      <recent name="D:\ProgramFiles\ideaPracticeDemoTotal\rabbitmq_demo\rab_order\src\main\resources" />
+      <recent name="D:\ProgramFiles\ideaPracticeDemoTotal\rabbitmq_demo\rab_product\src\main\java\ai\ssy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OrderTest.createOrder4MQ">
+    <configuration name="OrderTest.createOrder4MQ" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rab_order" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <option name="METHOD_NAME" value="createOrder4MQ" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest.sendString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rab_product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ai.ssy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ai.ssy" />
+      <option name="MAIN_CLASS_NAME" value="ai.ssy.ProductTest" />
+      <option name="METHOD_NAME" value="sendString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ai.ssy.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rab_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ai.ssy.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rab_product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ai.ssy.ProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="lua.app" factoryName="Lua Application">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="" />
+      <option name="workingDir" value="$PROJECT_DIR$/rab_core/src/main/java" />
+      <option name="debuggerType" value="1" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderTest.createOrder4MQ" />
+        <item itemvalue="JUnit.ProductTest.sendString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47bb22e1-8fcf-486c-878c-4252e7f2bad3" name="Default Changelist" comment="" />
+      <created>1584780487449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584780487449</updated>
+      <workItem from="1584780488788" duration="11861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
